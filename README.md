@@ -41,7 +41,7 @@
 
 일단 생략한다.
 
-![초코랑앱 이미지](chocolang.jpg)
+![초코랑앱 이미지](chocolog.jpg)
 
 
 
